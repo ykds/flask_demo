@@ -1,0 +1,7 @@
+.idea/
+MANIFEST.IN
+flasks.egg-info/
+flasks/__pycache__/
+instance/
+setup.py
+venv/
